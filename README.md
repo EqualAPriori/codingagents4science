@@ -49,13 +49,16 @@ At each activity, we ask four questions:
 
 Several disciplines recur across scientific activities:
 
+Core Science:
 - **Epistemic discipline:** connect claims to evidence, expose assumptions, represent uncertainty, and consider alternatives.
 - **Artifact discipline:** preserve provenance, versions, data lineage, tests, and executable state.
+
+Operational Techniques:
 - **Context discipline:** separate current state, history, and references; maintain vocabulary and instructions.
 - **Coordination discipline:** divide work, manage agents, review outputs, and leave reliable handoffs.
 - **Resource discipline:** manage compute, time, cost, access, and scarce experimental opportunities.
 
-These are working concepts, still
+These are working concepts, still.
 
 ## Epistemic status
 
