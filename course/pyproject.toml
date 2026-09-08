@@ -1,0 +1,6 @@
+[project]
+name = "codingagents4science-course"
+version = "0.1.0"
+description = "Course-authoring scaffold for codingagents4science"
+requires-python = ">=3.9"
+dependencies = []

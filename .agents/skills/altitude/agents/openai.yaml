@@ -1,0 +1,6 @@
+interface:
+  display_name: "Altitude"
+  short_description: "Shift between big picture and detail"
+  default_prompt: "Use $altitude to shift the center of gravity of this discussion."
+policy:
+  allow_implicit_invocation: false

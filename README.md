@@ -84,4 +84,21 @@ This overview is a first orientation, not a curriculum outline. Concrete researc
 The detailed research lifecycle, course sequence, lesson boundaries, recipes, case studies, and implementation practices remain open. We will let further research and prototypes earn that structure.
 
 # A first attempt at a course
-In progress...
+In progress... but an initial forcing function for this course is, walking through full lifecycle of agents doing work that is of publishable quality.
+
+Some precedents:
+- https://github.com/EvoScientist/EvoScientist
+- https://arxiv.org/abs/2604.24658
+
+But there's also lots of lower hanging fruit that would impact people:
+- e.g. citation workflow
+- eg paper writing guidelines
+- eg trackers
+- eg doing an analysis for data science
+    - eg creating visual artifacts
+    - eg creating loops
+
+## Course Organization
+We will have two main paths in the course:
+- Top-down view -- A first-principles view into understanding and structuring agents for science
+- Bottom-up view -- starting from mostly stand-alone content, recipes, etc. that have yet to be collected into something coherent

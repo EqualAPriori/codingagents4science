@@ -1,0 +1,21 @@
+---
+title: "Quarto + uv smoke test"
+---
+
+This small course project is a checkable starting point for authoring lessons.
+Quarto owns the rendered page, while `uv` owns the reproducible Python
+environment described by `pyproject.toml` and `uv.lock`.
+
+The companion verification command checks that the project metadata and this
+artifact are present and internally consistent:
+
+```bash
+uv run python verify.py
+```
+
+When the Quarto CLI is installed, render this project from the repository
+root with:
+
+```bash
+quarto render course
+```
